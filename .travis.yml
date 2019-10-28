@@ -6,7 +6,7 @@ addons:
  sonarcloud:
   organization:Vanessa1211
   token:
-   secure:3c6d6deaba5ea98a8b10ca696e08986993b1d403
+   secure:40f896682eb384914c29968bbc385114f2bfedda
 script:
  -ant build
  -sonar-scanner 
